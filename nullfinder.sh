@@ -1,9 +1,6 @@
 #!/bin/ksh
 
-# @version: 0.0.1
-# @desc: Detect NULL bytes in any file
-# @note: Please use an absolute path for the directory path
-# @note: Please ensure filename patterns are escaped (e.g. \*.xsd)
+# @version: 0.0.2
 # @errors:
 # 0 - Success
 # 1 - Invalid # of arguments
