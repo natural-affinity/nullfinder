@@ -10,6 +10,8 @@ Prerequisites
 * Bourne Shell (sh)
 * Bourne Again Shell (bash)
 
+You will need to modify the shebang line of the script 
+if another shell is used (i.e. bash, sh).
 
 Supported Platforms
 -------------------
@@ -29,12 +31,6 @@ project directory.
 Ensure ksh or a compatible shell is available on your system:  
 ```bash
 $ which ksh bash sh
-```
-
-Modify the shebang line of the script if using another shell (i.e. bash, sh):  
-```bash
-!#/bin/sh
-!#/bin/bash
 ```
 
 Ensure NullFinder has execute permissions:  
