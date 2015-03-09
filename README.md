@@ -4,13 +4,17 @@ This script serves as a means to detect the presence
 of NULL bytes in any file.  Specifically, it will recursively
 search a target directory for files that match a given pattern for NULL bytes.
 
+Origin Story
+------------
+* [The Hunt for Nulls](http://rizwan-tejpar.tumblr.com/post/63704577271/finding-rogue-bytes-the-hunt-for-nulls)
+
 Prerequisites
 -------------
 * Korn Shell (ksh)
 * Bourne Shell (sh)
 * Bourne Again Shell (bash)
 
-You will need to modify the shebang line of the script 
+You will need to modify the shebang line of the script
 if another shell is used (i.e. bash, sh).
 
 Supported Platforms
