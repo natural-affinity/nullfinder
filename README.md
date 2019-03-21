@@ -6,7 +6,7 @@ search a target directory for files that match a given pattern for NULL bytes.
 
 Origin Story
 ------------
-* [The Hunt for Nulls](http://rizwan-tejpar.tumblr.com/post/63704577271/finding-rogue-bytes-the-hunt-for-nulls)
+* [The Hunt for Nulls](http://natural-affinity.tumblr.com/post/63704577271/finding-rogue-bytes-the-hunt-for-nulls)
 
 Prerequisites
 -------------
